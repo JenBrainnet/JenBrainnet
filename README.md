@@ -19,6 +19,27 @@
   <a href="https://wa.me/972559125040"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" style="max-width: 100%;"></a>
 
 ---
+
+### GitHub Stats
+
+<!--[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenBrainnet&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenBrainnet&hide=c&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JenBrainnet&theme=default)
+
+
+
+
+
+
+
+
+
+
+
+
+<!-----
 ### Technologies I Use in My Projects
 
 <a href="https://spring.io/projects/spring-framework"><img src="https://img.shields.io/badge/Spring%20Core-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Core"></a>
@@ -42,7 +63,7 @@
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-EB8A2D?logo=prometheus&logoColor=white&style=flat" alt="Prometheus"></a>
 <a href="https://helm.sh/"><img src="https://img.shields.io/badge/Helm-0A1F44?logo=helm&logoColor=white&style=flat" alt="Helm"></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
-<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white&style=flat" alt="macOS"></a>
+<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white&style=flat" alt="macOS"></a>-->
 
 
 
