@@ -6,14 +6,14 @@
 ### About Me : 
 <p dir="auto">
    
-- My name is Evgeniya <!--:woman_technologist:-->👩‍🦰 and I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- My name is Evgeniya <!--:woman_technologist:-->👩‍🦰, and I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - I studied software development at <a href="https://urfu.ru/ru">URFU</a> (Ural Federal University)
 
 - In my free time, I read tech books and solve problems on <a href="https://leetcode.com/u/jen_brainnet/"><img src="https://img.shields.io/badge/leetcode-4f4f4f?logo=leetcode&style=flat"></a>
  
 
-- Reach me on: 
+- Feel free to reach out to me on: 
   <a href="https://www.linkedin.com/in/evgeniya-leontyeva-2052701b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;"></a>
   <a href="mailto:benebrak01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" style="max-width: 100%;"></a>
   <a href="https://t.me/jen_brainnet"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;"></a>
