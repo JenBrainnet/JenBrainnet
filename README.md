@@ -18,6 +18,32 @@
   <a href="https://t.me/jen_brainnet"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;"></a>
   <a href="https://wa.me/972559125040"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" style="max-width: 100%;"></a>
 
+---
+### Technologies I Use in My Projects
+
+<a href="https://spring.io/projects/spring-framework"><img src="https://img.shields.io/badge/Spring%20Core-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Core"></a>
+<a href="https://spring.io/projects/spring-web"><img src="https://img.shields.io/badge/Spring%20REST-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring REST"></a>
+<a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Data JPA"></a>
+<a href="https://spring.io/projects/spring-security"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Security"></a>
+<a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=flat" alt="JUnit"></a>
+<a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/Mockito-8C1D40?logo=mockito&logoColor=white&style=flat" alt="Mockito"></a>
+<a href="https://assertj.github.io/"><img src="https://img.shields.io/badge/AssertJ-1B60A0?logo=assertj&logoColor=white&style=flat" alt="AssertJ"></a>
+<a href="https://www.jacoco.org/jacoco/"><img src="https://img.shields.io/badge/Jacoco-006F1F?logo=jacoco&logoColor=white&style=flat" alt="Jacoco"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"></a>
+<a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=flat" alt="Hibernate"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>
+<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" alt="GitLab"></a>
+<a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat" alt="Maven"></a>
+<a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat" alt="Gradle"></a>
+<a href="https://www.oracle.com/java/technologies/javase/javadoc.html"><img src="https://img.shields.io/badge/Javadoc-FF9F00?logo=java&logoColor=white&style=flat" alt="Javadoc"></a>
+<a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-6A6A6A?logo=swagger&logoColor=white&style=flat" alt="Swagger"></a>
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes"></a>
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-EB8A2D?logo=prometheus&logoColor=white&style=flat" alt="Prometheus"></a>
+<a href="https://helm.sh/"><img src="https://img.shields.io/badge/Helm-0A1F44?logo=helm&logoColor=white&style=flat" alt="Helm"></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"></a>
+<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white&style=flat" alt="macOS"></a>
+
 
 
   
