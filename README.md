@@ -1,24 +1,23 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF8236&width=700&separator=%3D&lines=System.out.println(%22Hello%2C+World!);%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std%3A%3Aendl;%3DConsole.WriteLine(%22Hello+World!%22);%3DAda.Text_IO.Put_Line(%22Hello%2C+World!%22);%3Decho+%22Hello%2C+World!%22;%3DDBMS_OUTPUT.PUT_LINE('Hello%2C+World!');%3Dputs+%22Hello%2C+World!%22%3DIO.puts(%22Hello%2C+World!%22)%3Dprintf(%22Hello%2C+World!%5Cn%22);%3Dconsole.log(%22Hello%2C+World!%22);%3Dfmt.Println(%22Hello%2C+World!%22)%3D%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%5B%3E%2B%2B%2B%2B%2B%2B%2B%3E%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%3E%2B%2B%2B%3E%2B%3C%3C%3C%3C-%5D%3E%2B%2B.%3E%2B.%2B%2B%2B%2B%2B%2B%2B..%2B%2B%2B.+%3E%3E%2B%2B.%3C%3C%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B.%3E.%2B%2B%2B.------.--------.%3E%3E%2B.%3E%2B%2B." alt="Typing SVG" /></a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW8wem1pdnB1a29uN213MGVvbmx2cGplczZtaHNwOHFzdno1dTZnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="70"/>
    </p>
-
----
-
-### About Me : 
-<p dir="auto">
    
-- My name is Evgeniya <!--:woman_technologist:-->👩‍🦰, and I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+---
+### About Me
 
-- I studied software development at <a href="https://urfu.ru/ru">URFU</a> (Ural Federal University)
+- My name is Evgeniya 👩‍🦰, and I'm a Java developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+- I studied software development at <a href="https://urfu.ru/ru">Ural Federal University (URFU)</a>.
+  
+- I completed a comprehensive Java course at <a href="https://job4j.ru/">Job4j</a>.
 
-- In my free time, I read tech books and solve problems on <a href="https://leetcode.com/u/jen_brainnet/"><img src="https://img.shields.io/badge/leetcode-4f4f4f?logo=leetcode&style=flat"></a>
- 
+- In my free time, I read tech books and solve problems on <a href="https://leetcode.com/u/jen_brainnet/"><img src="https://img.shields.io/badge/leetcode-4f4f4f?logo=leetcode&style=flat"></a>.
 
-- Feel free to reach out to me on: 
+- Feel free to reach out to me on:
   <a href="https://www.linkedin.com/in/evgeniya-leontyeva-2052701b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;"></a>
   <a href="mailto:benebrak01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" style="max-width: 100%;"></a>
   <a href="https://t.me/jen_brainnet"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;"></a>
   <a href="https://wa.me/972559125040"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" style="max-width: 100%;"></a>
-</p>
+
 
 
   
