@@ -4,20 +4,23 @@
 ---
 
 ### About Me : 
-- My name is Evgeniya :woman_technologist:
-  
-- I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p dir="auto">
+   
+- My name is Evgeniya <!--:woman_technologist:-->👩‍🦰 and I'm a Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - I studied software development at <a href="https://urfu.ru/ru">URFU</a> (Ural Federal University)
 
-- In my free time, I solve problems on <a href="https://leetcode.com/u/jen_brainnet/"><img src="https://img.shields.io/badge/leetcode-black?logo=leetcode"></a> 
+- In my free time, I read tech books and solve problems on <a href="https://leetcode.com/u/jen_brainnet/"><img src="https://img.shields.io/badge/leetcode-black?logo=leetcode"></a> 
 
-- Reach me on:
-  <a href="https://www.linkedin.com/in/evgeniya-leontyeva-2052701b9">
-    <img src="https://img.shields.io/badge/LinkedIn-blue">
-  </a>
+- Reach me on: 
+  <a href="https://www.linkedin.com/in/evgeniya-leontyeva-2052701b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;"></a>
+  <a href="mailto:benebrak01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" style="max-width: 100%;"></a>
+  <a href="https://t.me/jen_brainnet"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;"></a>
+  <a href="https://wa.me/972559125040"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" style="max-width: 100%;"></a>
+</p>
 
 
+  
 
 <!--<p><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Comforta&size=22&duration=2000&pause=1000&color=EF8236&random=false&width=800&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;Hello+World!;%C2%A1Hola+Mundo!;!%D7%A9%D7%9C%D7%95%D7%9D+%D7%A2%D7%95%D7%9C%D7%9D;%E0%A4%B9%E0%A5%88%E0%A4%B2%E0%A5%8B+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%A1!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%EF%BC%81;Witaj+%C5%9Bwiecie!;Bonjour+le+monde!;Tere+maailm!;Ciao+mondo!;Hallo+wereld!;Hallo+welt!" 
