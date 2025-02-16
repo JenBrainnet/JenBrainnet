@@ -6,7 +6,7 @@
 
 - My name is Evgeniya 👩‍🦰, and I'm a Java developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-- I studied software development at <a href="https://urfu.ru/ru">Ural Federal University (URFU)</a>.
+- I studied software engineering at <a href="https://urfu.ru/ru">Ural Federal University (URFU)</a> (GPA: 4.89 out of 5.0). 
   
 - I completed a comprehensive Java course at <a href="https://job4j.ru/">Job4j</a>.
 
